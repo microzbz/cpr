@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Point.h
+iostream
+-
+string
+-
+
+/media/bz/SSD/c++/sample/src/Point.cpp
+Point.h
+-
+string
+-
+

@@ -1,0 +1,3 @@
+/media/bz/SSD/c++/sample/build/CMakeFiles/rebuild_cache.dir
+/media/bz/SSD/c++/sample/build/CMakeFiles/edit_cache.dir
+/media/bz/SSD/c++/sample/build/CMakeFiles/soldier_cmake.dir
